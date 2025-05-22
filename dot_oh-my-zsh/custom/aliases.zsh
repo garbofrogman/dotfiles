@@ -5,7 +5,7 @@ alias lah='ls -lahF --color=auto'
 alias grep='grep --color=auto'
 alias grepi='grep -i --color=auto'
 
-alias hyprconf='nvim ~/.config/hypr/hyprland.conf'
+# alias hyprconf='nvim ~/.config/hypr/hyprland.conf'
 
 alias vim='nvim'
 
